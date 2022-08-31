@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, React and Bootstrap4**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoatasemYakhni/](https://github.com/MoatasemYakhni/)
+- 👨‍💻 All of my projects are available at [https://github.com/moatasemyakhni/](https://github.com/moatasemyakhni/)
 
 - 📫 How to reach me **motasem.yakhni@gmail.com**
 
