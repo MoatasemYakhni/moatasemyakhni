@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moatasem Yakhni</h1>
-<h3 align="center">An enthusiast full-stack developer from Lebanon</h3>
+<h3 align="center">An Enthusiast Full-Stack Developer from Lebanon</h3>
 
 <img alt="Coding" width="100%" src="https://i.gifer.com/LsZ0.gif" />
 
