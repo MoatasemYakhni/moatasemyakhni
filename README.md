@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoatasemYakhni/](https://github.com/MoatasemYakhni/)
 
-- 💬 Ask me about **React, NodeJS and Laravel**
+- 💬 Ask me about **React, Node.js and Laravel**
 
 - 📫 How to reach me **motasem.yakhni@gmail.com**
 
-- ⚡ Fun fact **I am a Goalkeeper ⚽🧤**
+- ⚡ Fun fact **I am a goalkeeper ⚽🧤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
